@@ -1,1 +1,1 @@
-worker: node flashproxy
+worker: node node_modules/flashproxy
